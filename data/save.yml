@@ -1,0 +1,19 @@
+--- !ruby/object:Game
+secret_word: enhancements
+discovered_ch:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+guesses:
+- b
+turns: 1
+mistakes: 1
